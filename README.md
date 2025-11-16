@@ -7,5 +7,5 @@
 
 ```sh
 git clone https://github.com/pixdns/BMP-Modpacks-Translations-StoneBlock4.git
-cp -r BMP-Modpacks-Translations-StoneBlock4/* ../
+cp -r BMP-Modpacks-Translations-StoneBlock4/* .
 ```
