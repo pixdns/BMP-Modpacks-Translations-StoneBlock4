@@ -5,12 +5,17 @@
 
 ## Использование
 
+### Linux
+
 ```sh
 git clone https://github.com/pixdns/BMP-Modpacks-Translations-StoneBlock4.git
 cp -r BMP-Modpacks-Translations-StoneBlock4/* .
-```
+````
+
+### Windows (PowerShell)
 
 ```powershell
 git clone https://github.com/pixdns/BMP-Modpacks-Translations-StoneBlock4.git
 Copy-Item "BMP-Modpacks-Translations-StoneBlock4\*" "." -Recurse -Force
 ```
+
